@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW1", "HW1\HW1.csproj", "{104884CA-9F5C-44FA-A0DC-20818A8F6DB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZooTests", "ZooTests\ZooTests.csproj", "{541F9D3C-E358-4D07-AF70-B3C98C6A8568}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{104884CA-9F5C-44FA-A0DC-20818A8F6DB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{104884CA-9F5C-44FA-A0DC-20818A8F6DB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{104884CA-9F5C-44FA-A0DC-20818A8F6DB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{104884CA-9F5C-44FA-A0DC-20818A8F6DB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{541F9D3C-E358-4D07-AF70-B3C98C6A8568}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{541F9D3C-E358-4D07-AF70-B3C98C6A8568}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{541F9D3C-E358-4D07-AF70-B3C98C6A8568}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{541F9D3C-E358-4D07-AF70-B3C98C6A8568}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

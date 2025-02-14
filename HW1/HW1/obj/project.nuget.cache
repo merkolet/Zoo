@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BrxO5GUghhkkz9fs5VZXBl0rSm2iyadxDYd3mS++C9gq6GIoAkjwyhBf1xy1/o+cFr4Dasd17YWLHLtEsAN8nw==",
+  "success": true,
+  "projectFilePath": "/Users/sergey/RiderProjects/HW1/HW1/HW1.csproj",
+  "expectedPackageFiles": [
+    "/Users/sergey/.nuget/packages/microsoft.extensions.dependencyinjection/9.0.2/microsoft.extensions.dependencyinjection.9.0.2.nupkg.sha512",
+    "/Users/sergey/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.2/microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

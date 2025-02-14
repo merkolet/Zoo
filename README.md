@@ -43,3 +43,10 @@
 
 Юнит-тесты:
 Всего 4 теста, покрытие 81%.
+
+DI
+Проект использует Microsoft.Extensions.DependencyInjection для внедрения зависимостей.
+
+Подключение:
+
+    dotnet add package Microsoft.Extensions.DependencyInjection
